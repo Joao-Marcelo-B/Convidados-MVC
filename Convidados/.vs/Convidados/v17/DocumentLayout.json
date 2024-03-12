@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\views\\convidado\\listapresenca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\views\\convidado\\listapresenca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\views\\convidado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\views\\convidado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\controllers\\convidadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\controllers\\convidadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\views\\convidado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\views\\convidado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\convidados.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\convidados.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\views\\convidado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\views\\convidado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\views\\convidado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\views\\convidado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\views\\convidado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\views\\convidado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\models\\convidado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\models\\convidado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|c:\\users\\joao marcelo\\desktop\\convidados\\convidados\\convidados\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213D4A2E-9FF4-4301-B675-E54603677514}|Convidados\\Convidados.csproj|solutionrelative:convidados\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaPresenca.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\ListaPresenca.cshtml",
+              "RelativeDocumentMoniker": "Convidados\\Views\\Convidado\\ListaPresenca.cshtml",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\ListaPresenca.cshtml",
+              "RelativeToolTip": "Convidados\\Views\\Convidado\\ListaPresenca.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T12:20:49.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\Details.cshtml",
+              "RelativeDocumentMoniker": "Convidados\\Views\\Convidado\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\Details.cshtml",
+              "RelativeToolTip": "Convidados\\Views\\Convidado\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T12:14:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Convidados",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Convidados.csproj",
+              "RelativeDocumentMoniker": "Convidados\\Convidados.csproj",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Convidados.csproj",
+              "RelativeToolTip": "Convidados\\Convidados.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-09T14:54:36.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Convidados\\Views\\Convidado\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\Delete.cshtml",
+              "RelativeToolTip": "Convidados\\Views\\Convidado\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T02:50:11.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\Create.cshtml",
+              "RelativeDocumentMoniker": "Convidados\\Views\\Convidado\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\Create.cshtml",
+              "RelativeToolTip": "Convidados\\Views\\Convidado\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T02:50:11.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\Index.cshtml",
+              "RelativeDocumentMoniker": "Convidados\\Views\\Convidado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\Index.cshtml",
+              "RelativeToolTip": "Convidados\\Views\\Convidado\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T02:50:11.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Convidado.cs",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Models\\Convidado.cs",
+              "RelativeDocumentMoniker": "Convidados\\Models\\Convidado.cs",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Models\\Convidado.cs",
+              "RelativeToolTip": "Convidados\\Models\\Convidado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:50:11.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvidadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Controllers\\ConvidadoController.cs",
+              "RelativeDocumentMoniker": "Convidados\\Controllers\\ConvidadoController.cs",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Controllers\\ConvidadoController.cs",
+              "RelativeToolTip": "Convidados\\Controllers\\ConvidadoController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:50:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Program.cs",
+              "RelativeDocumentMoniker": "Convidados\\Program.cs",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Program.cs",
+              "RelativeToolTip": "Convidados\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:50:11.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Convidados\\Views\\Convidado\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Views\\Convidado\\Edit.cshtml",
+              "RelativeToolTip": "Convidados\\Views\\Convidado\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T02:50:11.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Convidados\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Joao Marcelo\\Desktop\\Convidados\\Convidados\\Convidados\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Convidados\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:50:11.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
